@@ -4,6 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+aiofiles = "*"
+aiomysql = "*"
+aiohttp = "*"
+mysql-connector-python = "*"
+requests = "*"
 
 [dev-packages]
 
